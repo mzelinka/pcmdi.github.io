@@ -46,21 +46,21 @@ NOTE: Supported browsers for the Interactive Portrait Plots are Chrome, Firefox,
 
 <!-- Mean Bias (Figures 1 and 2): -->
 
-[mean_bias_tas]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/mean_bias/fig1a_interactive_TAS_mean_bias_portrait_plot.html
-[mean_bias_pr]:  https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/mean_bias/fig1b_interactive_PR_mean_bias_portrait_plot.html
-[mean_bias_sic_nh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/mean_bias/fig2a_interactive_Arctic_mean_bias_portrait_plot.html
-[mean_bias_sic_sh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/mean_bias/fig2b_interactive_Antarctic_mean_bias_portrait_plot.html
+[mean_bias_tas]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/mean_bias/fig1a_interactive_TAS_mean_bias_portrait_plot.html
+[mean_bias_pr]:  https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/mean_bias/fig1b_interactive_PR_mean_bias_portrait_plot.html
+[mean_bias_sic_nh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/mean_bias/fig2a_interactive_Arctic_mean_bias_portrait_plot.html
+[mean_bias_sic_sh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/mean_bias/fig2b_interactive_Antarctic_mean_bias_portrait_plot.html
  
 <!--  Trend Bias (Figures 5 and 6): -->
 
-[trend_bias_tas]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/trend_bias/fig5a_interactive_TAS_trend_bias_portrait_plot.html
-[trend_bias_pr]:  https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/trend_bias/fig5b_interactive_PR_trend_bias_portrait_plot.html
-[trend_bias_sic_nh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/trend_bias/fig6a_interactive_Arctic_trend_bias_portrait_plot.html
-[trend_bias_sic_sh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/trend_bias/fig6b_interactive_Antarctic_trend_bias_portrait_plot.html
+[trend_bias_tas]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/trend_bias/fig5a_interactive_TAS_trend_bias_portrait_plot.html
+[trend_bias_pr]:  https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/trend_bias/fig5b_interactive_PR_trend_bias_portrait_plot.html
+[trend_bias_sic_nh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/trend_bias/fig6a_interactive_Arctic_trend_bias_portrait_plot.html
+[trend_bias_sic_sh]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/trend_bias/fig6b_interactive_Antarctic_trend_bias_portrait_plot.html
  
 
 <!-- Skill Score (Figure 9): -->
 
-[skill_sc_tas_acc]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/skill_score/fig9a_interactive_TAS_skill_ACC_portrait_plot.html
-[skill_sc_tas_msss]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/skill_score/fig9b_interactive_TAS_skill_MSSS_portrait_plot.html
-[skill_sc_tas_rpc]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/skill_score/fig9c_interactive_TAS_skill_RPC_portrait_plot.html
+[skill_sc_tas_acc]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/skill_score/fig9a_interactive_TAS_skill_ACC_portrait_plot.html
+[skill_sc_tas_msss]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/skill_score/fig9b_interactive_TAS_skill_MSSS_portrait_plot.html
+[skill_sc_tas_rpc]: https://pcmdi.llnl.gov/pmp-preliminary-results/graphics/dcpp/skill_score/fig9c_interactive_TAS_skill_RPC_portrait_plot.html
