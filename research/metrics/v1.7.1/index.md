@@ -21,7 +21,7 @@ The PCMDI Metrics Package ([PMP][pmp]) is a capability that is used to produce a
 * [Monsoon Characteristics (example)][monsoon]
 * (Prototype) [Sea Ice](sea_ice)
 * (Prototype) [Quasi-Biennial Oscillation (QBO)](qbo)
-* (Prototype) [Decadal Climate Prediction Project](dcpp)
+* (Prototype) [Decadal Climate Prediction Project (DCPP)](dcpp)
 * [_Update history_](#updates)
 
 ---
