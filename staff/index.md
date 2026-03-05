@@ -148,7 +148,7 @@ Pacific Northwest National Laboratory |  |  |
 [phillips]: {{site.baseurl}}/staff/phillips
 [pochedley]: https://people.llnl.gov/pochedley1
 [qin5]: {{site.baseurl}}/staff/#
-[santer]: {{site.baseurl}}/staff/santer
+[santer]: {{site.baseurl}}/staff/#
 [sperber]: {{site.baseurl}}/staff/sperber
 [taylor]: {{site.baseurl}}/staff/taylor
 [ullrich]: https://people.llnl.gov/ullrich4
